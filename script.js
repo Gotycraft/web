@@ -116,6 +116,3 @@ document.addEventListener('DOMContentLoaded', function() {
     // Auto-rotate every 5 seconds
     setInterval(nextImage, 5000000);
 });
-
-
-
